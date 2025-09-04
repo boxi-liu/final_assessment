@@ -1,0 +1,16 @@
+/home/liu/final_assessment/install/final_assessment/lib/final_assessment/publisher
+/home/liu/final_assessment/install/final_assessment/share/ament_index/resource_index/package_run_dependencies/final_assessment
+/home/liu/final_assessment/install/final_assessment/share/ament_index/resource_index/parent_prefix_path/final_assessment
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/environment/ament_prefix_path.sh
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/environment/ament_prefix_path.dsv
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/environment/path.sh
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/environment/path.dsv
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/local_setup.bash
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/local_setup.sh
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/local_setup.zsh
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/local_setup.dsv
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/package.dsv
+/home/liu/final_assessment/install/final_assessment/share/ament_index/resource_index/packages/final_assessment
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/cmake/final_assessmentConfig.cmake
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/cmake/final_assessmentConfig-version.cmake
+/home/liu/final_assessment/install/final_assessment/share/final_assessment/package.xml

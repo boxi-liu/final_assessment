@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target publisher[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/camera_info_publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX executable publisher[0m
+[100%] Built target publisher
+-- Install configuration: ""
+-- Installing: /home/liu/final_assessment/install/final_assessment/lib/final_assessment/publisher
+-- Set runtime path of "/home/liu/final_assessment/install/final_assessment/lib/final_assessment/publisher" to ""
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/ament_index/resource_index/package_run_dependencies/final_assessment
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/ament_index/resource_index/parent_prefix_path/final_assessment
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/environment/ament_prefix_path.sh
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/environment/path.sh
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/environment/path.dsv
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/local_setup.bash
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/local_setup.sh
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/local_setup.zsh
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/local_setup.dsv
+-- Installing: /home/liu/final_assessment/install/final_assessment/share/final_assessment/package.dsv
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/ament_index/resource_index/packages/final_assessment
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/cmake/final_assessmentConfig.cmake
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/cmake/final_assessmentConfig-version.cmake
+-- Up-to-date: /home/liu/final_assessment/install/final_assessment/share/final_assessment/package.xml

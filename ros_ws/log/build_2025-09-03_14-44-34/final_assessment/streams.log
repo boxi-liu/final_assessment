@@ -1,0 +1,53 @@
+[0.008s] Invoking command in '/home/liu/final_assessment/ros_ws/build/final_assessment': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liu/ros2_ws/install/launch_testing_examples:/home/liu/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/liu/ros2_ws/install/examples_rclpy_minimal_service:/home/liu/ros2_ws/install/examples_rclpy_minimal_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_client:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_server:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_client:/home/liu/ros2_ws/install/examples_rclpy_guard_conditions:/home/liu/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/liu/final_assessment/ros_ws/src/final_assessment -DCMAKE_EXPORT_COMPILE_COMMANDS=1 -DCMAKE_INSTALL_PREFIX=/home/liu/final_assessment/ros_ws/install/final_assessment
+[0.068s] -- The C compiler identification is GNU 11.4.0
+[0.127s] -- The CXX compiler identification is GNU 11.4.0
+[0.134s] -- Detecting C compiler ABI info
+[0.225s] -- Detecting C compiler ABI info - done
+[0.237s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.237s] -- Detecting C compile features
+[0.238s] -- Detecting C compile features - done
+[0.242s] -- Detecting CXX compiler ABI info
+[0.351s] -- Detecting CXX compiler ABI info - done
+[0.358s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.358s] -- Detecting CXX compile features
+[0.359s] -- Detecting CXX compile features - done
+[0.361s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.515s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.600s] -- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)
+[0.644s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.649s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.657s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.668s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.683s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.725s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.728s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.829s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.865s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.899s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.908s] -- Looking for pthread.h
+[0.976s] -- Looking for pthread.h - found
+[0.977s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.070s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.070s] -- Found Threads: TRUE  
+[1.112s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.176s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.176s] -- Configured cppcheck include dirs: 
+[1.176s] -- Configured cppcheck exclude dirs and/or files: 
+[1.176s] -- Added test 'lint_cmake' to check CMake code style
+[1.177s] -- Added test 'uncrustify' to check C / C++ code style
+[1.177s] -- Configured uncrustify additional arguments: 
+[1.177s] -- Added test 'xmllint' to check XML markup files
+[1.178s] -- Configuring done
+[1.184s] -- Generating done
+[1.186s] -- Build files have been written to: /home/liu/final_assessment/ros_ws/build/final_assessment
+[1.192s] Invoked command in '/home/liu/final_assessment/ros_ws/build/final_assessment' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liu/ros2_ws/install/launch_testing_examples:/home/liu/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/liu/ros2_ws/install/examples_rclpy_minimal_service:/home/liu/ros2_ws/install/examples_rclpy_minimal_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_client:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_server:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_client:/home/liu/ros2_ws/install/examples_rclpy_guard_conditions:/home/liu/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/liu/final_assessment/ros_ws/src/final_assessment -DCMAKE_EXPORT_COMPILE_COMMANDS=1 -DCMAKE_INSTALL_PREFIX=/home/liu/final_assessment/ros_ws/install/final_assessment
+[1.193s] Invoking command in '/home/liu/final_assessment/ros_ws/build/final_assessment': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liu/ros2_ws/install/launch_testing_examples:/home/liu/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/liu/ros2_ws/install/examples_rclpy_minimal_service:/home/liu/ros2_ws/install/examples_rclpy_minimal_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_client:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_server:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_client:/home/liu/ros2_ws/install/examples_rclpy_guard_conditions:/home/liu/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/liu/final_assessment/ros_ws/build/final_assessment -- -j24 -l24
+[1.246s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/calculated_armor_plate_attitude.cpp.o[0m
+[1.375s] [01m[K/home/liu/final_assessment/ros_ws/src/final_assessment/src/calculated_armor_plate_attitude.cpp:7:10:[m[K [01;31m[Kfatal error: [m[Kstd_msgs/msg/String.hpp: 没有那个文件或目录
+[1.375s]     7 | #include [01;31m[K"std_msgs/msg/String.hpp"[m[K
+[1.375s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.375s] compilation terminated.
+[1.378s] gmake[2]: *** [CMakeFiles/publisher.dir/build.make:76：CMakeFiles/publisher.dir/src/calculated_armor_plate_attitude.cpp.o] 错误 1
+[1.378s] gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/publisher.dir/all] 错误 2
+[1.379s] gmake: *** [Makefile:146：all] 错误 2
+[1.381s] Invoked command in '/home/liu/final_assessment/ros_ws/build/final_assessment' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liu/ros2_ws/install/launch_testing_examples:/home/liu/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/liu/ros2_ws/install/examples_rclpy_minimal_service:/home/liu/ros2_ws/install/examples_rclpy_minimal_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_client:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_server:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_client:/home/liu/ros2_ws/install/examples_rclpy_guard_conditions:/home/liu/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/liu/final_assessment/ros_ws/build/final_assessment -- -j24 -l24

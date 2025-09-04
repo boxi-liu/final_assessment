@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/subscriber.dir/src/calculated_armor_plate_attitude_subscribe.cpp.o -o subscriber 

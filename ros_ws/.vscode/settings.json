@@ -1,5 +1,3 @@
 {
-  "clangd.arguments": [
-    "--compile-commands-dir=${workspaceFolder}"
-  ]
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json"
 }

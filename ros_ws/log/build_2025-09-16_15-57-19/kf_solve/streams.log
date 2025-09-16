@@ -1,0 +1,34 @@
+[0.019s] Invoking command in '/home/liu/final_assessment/ros_ws/build/kf_solve': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liu/final_assessment/ros_ws/install/bringup:/home/liu/ros2_ws/install/launch_testing_examples:/home/liu/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/liu/ros2_ws/install/examples_rclpy_minimal_service:/home/liu/ros2_ws/install/examples_rclpy_minimal_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_client:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_server:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_client:/home/liu/ros2_ws/install/examples_rclpy_guard_conditions:/home/liu/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/liu/final_assessment/ros_ws/build/kf_solve -- -j24 -l24
+[0.242s] [35m[1mConsolidate compiler generated dependencies of target kf_solve[0m
+[0.242s] [ 50%] [32mBuilding CXX object CMakeFiles/kf_solve.dir/src/kalman_filter.cpp.o[0m
+[4.625s] [100%] [32m[1mLinking CXX shared library libkf_solve.so[0m
+[4.788s] [100%] Built target kf_solve
+[4.800s] Invoked command in '/home/liu/final_assessment/ros_ws/build/kf_solve' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liu/final_assessment/ros_ws/install/bringup:/home/liu/ros2_ws/install/launch_testing_examples:/home/liu/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/liu/ros2_ws/install/examples_rclpy_minimal_service:/home/liu/ros2_ws/install/examples_rclpy_minimal_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_client:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_server:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_client:/home/liu/ros2_ws/install/examples_rclpy_guard_conditions:/home/liu/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/liu/final_assessment/ros_ws/build/kf_solve -- -j24 -l24
+[4.803s] Invoking command in '/home/liu/final_assessment/ros_ws/build/kf_solve': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liu/final_assessment/ros_ws/install/bringup:/home/liu/ros2_ws/install/launch_testing_examples:/home/liu/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/liu/ros2_ws/install/examples_rclpy_minimal_service:/home/liu/ros2_ws/install/examples_rclpy_minimal_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_client:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_server:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_client:/home/liu/ros2_ws/install/examples_rclpy_guard_conditions:/home/liu/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/liu/final_assessment/ros_ws/build/kf_solve
+[4.812s] -- Install configuration: ""
+[4.812s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/environment/library_path.sh
+[4.812s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/environment/library_path.dsv
+[4.812s] -- Installing: /home/liu/final_assessment/ros_ws/install/kf_solve/lib/libkf_solve.so
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/include
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/include/kf_solve
+[4.815s] -- Installing: /home/liu/final_assessment/ros_ws/install/kf_solve/include/kf_solve/kalman_filter.hpp
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/ament_index/resource_index/package_run_dependencies/kf_solve
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/ament_index/resource_index/parent_prefix_path/kf_solve
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/environment/ament_prefix_path.sh
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/environment/ament_prefix_path.dsv
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/environment/path.sh
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/environment/path.dsv
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/local_setup.bash
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/local_setup.sh
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/local_setup.zsh
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/local_setup.dsv
+[4.815s] -- Installing: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/package.dsv
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/ament_index/resource_index/packages/kf_solve
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/cmake/export_kf_solveExport.cmake
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/cmake/export_kf_solveExport-noconfig.cmake
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/cmake/ament_cmake_export_targets-extras.cmake
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/cmake/kf_solveConfig.cmake
+[4.815s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/cmake/kf_solveConfig-version.cmake
+[4.816s] -- Up-to-date: /home/liu/final_assessment/ros_ws/install/kf_solve/share/kf_solve/package.xml
+[4.816s] Invoked command in '/home/liu/final_assessment/ros_ws/build/kf_solve' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/liu/final_assessment/ros_ws/install/bringup:/home/liu/ros2_ws/install/launch_testing_examples:/home/liu/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/liu/ros2_ws/install/examples_rclpy_minimal_service:/home/liu/ros2_ws/install/examples_rclpy_minimal_publisher:/home/liu/ros2_ws/install/examples_rclpy_minimal_client:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_server:/home/liu/ros2_ws/install/examples_rclpy_minimal_action_client:/home/liu/ros2_ws/install/examples_rclpy_guard_conditions:/home/liu/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/liu/final_assessment/ros_ws/build/kf_solve

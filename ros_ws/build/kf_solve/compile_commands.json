@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/liu/final_assessment/ros_ws/build/kf_solve",
+  "command": "/usr/bin/c++ -Dkf_solve_EXPORTS -I/home/liu/final_assessment/ros_ws/src/kf_solve/include -I/usr/include/eigen3 -fPIC -o CMakeFiles/kf_solve.dir/src/kalman_filter.cpp.o -c /home/liu/final_assessment/ros_ws/src/kf_solve/src/kalman_filter.cpp",
+  "file": "/home/liu/final_assessment/ros_ws/src/kf_solve/src/kalman_filter.cpp"
+}
+]

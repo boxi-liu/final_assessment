@@ -1,0 +1,10 @@
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/uninstall.dir
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/subscriber_uninstall.dir
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/armor_pose_solver.dir
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/test.dir
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/edit_cache.dir
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/rebuild_cache.dir
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/list_install_components.dir
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/install.dir
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/install/local.dir
+/home/liu/final_assessment/ros_ws/build/subscriber/CMakeFiles/install/strip.dir

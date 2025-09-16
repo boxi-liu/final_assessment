@@ -1,0 +1,16 @@
+/home/liu/final_assessment/ros_ws/install/subscriber/lib/subscriber/armor_pose_solver
+/home/liu/final_assessment/ros_ws/install/subscriber/share/ament_index/resource_index/package_run_dependencies/subscriber
+/home/liu/final_assessment/ros_ws/install/subscriber/share/ament_index/resource_index/parent_prefix_path/subscriber
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/environment/ament_prefix_path.sh
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/environment/ament_prefix_path.dsv
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/environment/path.sh
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/environment/path.dsv
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/local_setup.bash
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/local_setup.sh
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/local_setup.zsh
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/local_setup.dsv
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/package.dsv
+/home/liu/final_assessment/ros_ws/install/subscriber/share/ament_index/resource_index/packages/subscriber
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/cmake/subscriberConfig.cmake
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/cmake/subscriberConfig-version.cmake
+/home/liu/final_assessment/ros_ws/install/subscriber/share/subscriber/package.xml

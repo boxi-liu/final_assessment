@@ -1,0 +1,10 @@
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/uninstall.dir
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/pnp_solve_uninstall.dir
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/pnp_solve.dir
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/test.dir
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/edit_cache.dir
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/rebuild_cache.dir
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/list_install_components.dir
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/install.dir
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/install/local.dir
+/home/liu/final_assessment/ros_ws/build/pnp_solve/CMakeFiles/install/strip.dir

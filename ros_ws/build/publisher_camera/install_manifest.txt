@@ -1,0 +1,16 @@
+/home/liu/final_assessment/ros_ws/install/publisher_camera/lib/publisher_camera/publisher_camera
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/ament_index/resource_index/package_run_dependencies/publisher_camera
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/ament_index/resource_index/parent_prefix_path/publisher_camera
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/environment/ament_prefix_path.sh
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/environment/ament_prefix_path.dsv
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/environment/path.sh
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/environment/path.dsv
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/local_setup.bash
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/local_setup.sh
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/local_setup.zsh
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/local_setup.dsv
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/package.dsv
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/ament_index/resource_index/packages/publisher_camera
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/cmake/publisher_cameraConfig.cmake
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/cmake/publisher_cameraConfig-version.cmake
+/home/liu/final_assessment/ros_ws/install/publisher_camera/share/publisher_camera/package.xml

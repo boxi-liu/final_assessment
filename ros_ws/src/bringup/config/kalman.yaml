@@ -1,0 +1,19 @@
+armor_pose_solver:
+  ros__parameters:
+    # 时间步长
+    dt: 0.01
+
+    # 状态协方差初始值
+    P_: 5.0
+
+    # 过程噪声 Q
+    q_pos: 0.01
+    q_vel: 0.1
+    q_yaw: 0.00001
+    q_yawrate: 0.0001
+
+    # 量测噪声 R
+    r_x: 0.05
+    r_y: 0.05
+    r_z: 0.05
+    r_yaw: 0.5

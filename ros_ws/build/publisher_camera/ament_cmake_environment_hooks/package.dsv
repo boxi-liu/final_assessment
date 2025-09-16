@@ -1,0 +1,4 @@
+source;share/publisher_camera/local_setup.bash
+source;share/publisher_camera/local_setup.dsv
+source;share/publisher_camera/local_setup.sh
+source;share/publisher_camera/local_setup.zsh

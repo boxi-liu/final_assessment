@@ -1,8 +1,0 @@
-source;share/publisher_armor/hook/cmake_prefix_path.ps1
-source;share/publisher_armor/hook/cmake_prefix_path.dsv
-source;share/publisher_armor/hook/cmake_prefix_path.sh
-source;share/publisher_armor/local_setup.bash
-source;share/publisher_armor/local_setup.dsv
-source;share/publisher_armor/local_setup.ps1
-source;share/publisher_armor/local_setup.sh
-source;share/publisher_armor/local_setup.zsh

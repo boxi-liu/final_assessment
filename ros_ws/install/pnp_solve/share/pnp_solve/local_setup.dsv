@@ -1,3 +1,0 @@
-source;share/pnp_solve/environment/ament_prefix_path.sh
-source;share/pnp_solve/environment/library_path.sh
-source;share/pnp_solve/environment/path.sh
